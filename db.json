@@ -1,0 +1,374 @@
+{
+  "tickets": [
+    {
+      "email": "sasi@gmail.com",
+      "name": "Linkedin-Mihul Singh Solution",
+      "mode": "mail",
+      "status": "RES",
+      "ticketId": "6629801869",
+      "priority": "low",
+      "date": "June 2024",
+      "id": "f041"
+    },
+    {
+      "email": "sasi@gmail.com",
+      "name": "Re:Test Email",
+      "mode": "whatsapp",
+      "status": "PEN",
+      "ticketId": "6629801870",
+      "priority": "high",
+      "date": "June 2024",
+      "id": "5cd1"
+    },
+    {
+      "email": "sasi@gmail.com",
+      "name": "Raised a Concern",
+      "mode": "instagram",
+      "status": "PEN",
+      "ticketId": "6629801871",
+      "priority": "high",
+      "date": "July 2024",
+      "id": "430e"
+    },
+    {
+      "email": "uday@gmail.com",
+      "name": "Linkedin-Mihul Singh Solution",
+      "mode": "linkedin",
+      "status": "PEN",
+      "ticketId": "6629801872",
+      "priority": "high",
+      "date": "July 2024",
+      "id": "b625"
+    },
+    {
+      "email": "revanth@gmail.com",
+      "name": "Raised a Concern",
+      "mode": "chatbot",
+      "status": "PEN",
+      "ticketId": "6629801873",
+      "priority": "high",
+      "date": "July 2024",
+      "id": "d00d"
+    },
+    {
+      "email": "mohit@gmail.com",
+      "name": "Imax",
+      "mode": "mail",
+      "status": "RES",
+      "ticketId": "6629801874",
+      "priority": "high",
+      "date": "July 2024",
+      "id": "ce3c"
+    },
+    {
+      "email": "sasi@gmail.com",
+      "name": "Raised a Concern",
+      "mode": "whatsapp",
+      "status": "RES",
+      "ticketId": "6629801875",
+      "priority": "high",
+      "date": "July 2024",
+      "id": "3d06"
+    },
+    {
+      "email": "sasi@gmail.com",
+      "name": "Linkedin-Mihul Singh Solution",
+      "mode": "instagram",
+      "status": "PEN",
+      "ticketId": "6629801876",
+      "priority": "high",
+      "date": "July 2024",
+      "id": "d6cd"
+    },
+    {
+      "email": "anita@gmail.com",
+      "name": "Cinemax",
+      "mode": "mail",
+      "status": "RES",
+      "ticketId": "6629801877",
+      "priority": "low",
+      "date": "August 2024",
+      "id": "d8f4"
+    },
+    {
+      "email": "praveen@gmail.com",
+      "name": "Linkedin-Mihul Singh Solution",
+      "mode": "whatsapp",
+      "status": "PEN",
+      "ticketId": "6629801878",
+      "priority": "high",
+      "date": "August 2024",
+      "id": "37d9"
+    },
+    {
+      "email": "john@gmail.com",
+      "name": "Raised a Concern",
+      "mode": "instagram",
+      "status": "RES",
+      "ticketId": "6629801879",
+      "priority": "medium",
+      "date": "August 2024",
+      "id": "a8bd"
+    },
+    {
+      "email": "priya@gmail.com",
+      "name": "Linkedin-Mihul Singh Solution",
+      "mode": "linkedin",
+      "status": "PEN",
+      "ticketId": "6629801880",
+      "priority": "high",
+      "date": "September 2024",
+      "id": "c13d"
+    },
+    {
+      "email": "neha@gmail.com",
+      "name": "Raised a Concern",
+      "mode": "chatbot",
+      "status": "PEN",
+      "ticketId": "6629801881",
+      "priority": "low",
+      "date": "September 2024",
+      "id": "c1e2"
+    },
+    {
+      "email": "rajesh@gmail.com",
+      "name": "Linkedin-Mihul Singh Solution",
+      "mode": "mail",
+      "status": "RES",
+      "ticketId": "6629801882",
+      "priority": "high",
+      "date": "September 2024",
+      "id": "84e2"
+    },
+    {
+      "email": "kiran@gmail.com",
+      "name": "Starlight",
+      "mode": "whatsapp",
+      "status": "RES",
+      "ticketId": "6629801883",
+      "priority": "medium",
+      "date": "October 2024",
+      "id": "add4"
+    },
+    {
+      "email": "nisha@gmail.com",
+      "name": "Raised a Concern",
+      "mode": "instagram",
+      "status": "PEN",
+      "ticketId": "6629801884",
+      "priority": "low",
+      "date": "October 2024",
+      "id": "49e6"
+    },
+    {
+      "email": "vijay@gmail.com",
+      "name": "Cinemax",
+      "mode": "linkedin",
+      "status": "PEN",
+      "ticketId": "6629801885",
+      "priority": "high",
+      "date": "October 2024",
+      "id": "4f7a"
+    },
+    {
+      "email": "pranav@gmail.com",
+      "name": "Cinemax",
+      "mode": "linkedin",
+      "status": "PEN",
+      "ticketId": "6629801886",
+      "priority": "high",
+      "date": "October 2024",
+      "id": "6443"
+    },
+    {
+      "email": "arjun@gmail.com",
+      "name": "Cinemax",
+      "mode": "linkedin",
+      "status": "PEN",
+      "ticketId": "6629801887",
+      "priority": "medium",
+      "date": "October 2024",
+      "id": "1330"
+    },
+    {
+      "email": "vani@gmail.com",
+      "name": "Starlight",
+      "mode": "mail",
+      "status": "RES",
+      "ticketId": "6629801888",
+      "priority": "high",
+      "date": "November 2024",
+      "id": "1a4d"
+    },
+    {
+      "email": "deepak@gmail.com",
+      "name": "New Inquiry",
+      "mode": "whatsapp",
+      "status": "PEN",
+      "ticketId": "6629801889",
+      "priority": "high",
+      "date": "November 2024",
+      "id": "5ef2"
+    },
+    {
+      "email": "raj@gmail.com",
+      "name": "Client Request",
+      "mode": "chatbot",
+      "status": "RES",
+      "ticketId": "6629801890",
+      "priority": "medium",
+      "date": "November 2024",
+      "id": "d582"
+    },
+    {
+      "email": "sita@gmail.com",
+      "name": "Support Request",
+      "mode": "mail",
+      "status": "PEN",
+      "ticketId": "6629801891",
+      "priority": "low",
+      "date": "November 2024",
+      "id": "5ff4"
+    },
+    {
+      "email": "naveen@gmail.com",
+      "name": "Service Inquiry",
+      "mode": "linkedin",
+      "status": "RES",
+      "ticketId": "6629801892",
+      "priority": "high",
+      "date": "December 2024",
+      "id": "cbc0"
+    },
+    {
+      "email": "aman@gmail.com",
+      "name": "Feedback Request",
+      "mode": "whatsapp",
+      "status": "PEN",
+      "ticketId": "6629801893",
+      "priority": "medium",
+      "date": "December 2024",
+      "id": "5ffa"
+    },
+    {
+      "email": "sanjay@gmail.com",
+      "name": "Project Update",
+      "mode": "chatbot",
+      "status": "RES",
+      "ticketId": "6629801894",
+      "priority": "high",
+      "date": "December 2024",
+      "id": "47eb"
+    },
+    {
+      "email": "arun@gmail.com",
+      "name": "Contract Inquiry",
+      "mode": "mail",
+      "status": "PEN",
+      "ticketId": "6629801895",
+      "priority": "high",
+      "date": "January 2025",
+      "id": "acf7"
+    },
+    {
+      "email": "neeta@gmail.com",
+      "name": "Service Request",
+      "mode": "whatsapp",
+      "status": "RES",
+      "ticketId": "6629801896",
+      "priority": "medium",
+      "date": "January 2025",
+      "id": "f85e"
+    },
+    {
+      "email": "deepika@gmail.com",
+      "name": "Product Inquiry",
+      "mode": "linkedin",
+      "status": "PEN",
+      "ticketId": "6629801897",
+      "priority": "low",
+      "date": "January 2025",
+      "id": "d0e8"
+    },
+    {
+      "email": "shyam@gmail.com",
+      "name": "Technical Issue",
+      "mode": "chatbot",
+      "status": "RES",
+      "ticketId": "6629801898",
+      "priority": "high",
+      "date": "February 2025",
+      "id": "17cc"
+    },
+    {
+      "email": "sonia@gmail.com",
+      "name": "Urgent Follow-up",
+      "mode": "mail",
+      "status": "PEN",
+      "ticketId": "6629801899",
+      "priority": "high",
+      "date": "February 2025",
+      "id": "4794"
+    },
+    {
+      "email": "rajat@gmail.com",
+      "name": "Sales Inquiry",
+      "mode": "whatsapp",
+      "status": "RES",
+      "ticketId": "6629801900",
+      "priority": "medium",
+      "date": "February 2025",
+      "id": "330d"
+    },
+    {
+      "id": "8e19",
+      "email": "vishnu@gmail.com",
+      "name": "Zomato",
+      "mode": "whatsapp",
+      "status": "PEN",
+      "ticketId": "TICKET-1721307798596",
+      "priority": "low",
+      "date": "August 2024",
+      "mediumId": "",
+      "files": []
+    },
+    {
+      "id": "5b67",
+      "email": "saran@gmail.com",
+      "name": "Zepto",
+      "mode": "instagram",
+      "status": "PEN",
+      "ticketId": "TICKET-1721307858840",
+      "priority": "low",
+      "date": "September 2024",
+      "mediumId": "",
+      "files": []
+    },
+    {
+      "id": "2cf8",
+      "email": "bharagv@gmail.com",
+      "name": "Swiggy",
+      "mode": "linkedin",
+      "status": "PEN",
+      "ticketId": "TICKET-1721310609242",
+      "priority": "high",
+      "date": "December 2024",
+      "mediumId": "",
+      "files": [
+        {}
+      ]
+    },
+    {
+      "id": "daa4",
+      "email": "sasi@gmail.com",
+      "name": "Swiggy",
+      "mode": "chat",
+      "status": "RES",
+      "ticketId": "TICKET-1721312445088",
+      "priority": "low",
+      "date": "July 2024",
+      "mediumId": "",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+import React, { useEffect, useState } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+import { fetchTickets, selectTickets, selectTicketsToShow } from '../redux/ticketSlice';
+import Header from './Header';
+import Body from './Body';
+import TicketDetails from './TicketDetails';
+
+const MainComponent = () => {
+  const [searchTerm, setSearchTerm] = useState('');
+  const [selectedTicket, setSelectedTicket] = useState(null);
+  const [currentPage, setCurrentPage] = useState(1); // State for current page
+  const ticketsPerPage = useSelector(selectTicketsToShow);
+  const dispatch = useDispatch();
+  const tickets = useSelector(selectTickets);
+
+  useEffect(() => {
+    dispatch(fetchTickets());
+  }, [dispatch]);
+
+  const handleTicketClick = (ticket) => {
+    setSelectedTicket(ticket);
+  };
+
+  const handlePrevPage = () => {
+    if (currentPage > 1) {
+      setCurrentPage(currentPage - 1);
+    }
+  };
+
+  const handleNextPage = () => {
+    const totalPages = Math.ceil(tickets.length / ticketsPerPage);
+    if (currentPage < totalPages) {
+      setCurrentPage(currentPage + 1);
+    }
+  };
+
+  // Filtered tickets based on search term
+  const filteredTickets = tickets.filter(ticket =>
+    ticket.email.toLowerCase().includes(searchTerm.toLowerCase())
+  );
+
+  const totalPages = Math.ceil(filteredTickets.length / ticketsPerPage);
+
+  return (
+    <div>
+      <Header 
+        setSearchTerm={setSearchTerm} 
+        currentPage={currentPage}
+        totalPages={totalPages}
+        onPrevPage={handlePrevPage}
+        onNextPage={handleNextPage}
+      />
+      {!selectedTicket ? (
+        <Body 
+          searchTerm={searchTerm} 
+          currentPage={currentPage}
+          ticketsPerPage={ticketsPerPage}
+          onTicketClick={handleTicketClick} 
+        />
+      ) : (
+        <TicketDetails 
+          ticket={selectedTicket} 
+          onBack={() => setSelectedTicket(null)} 
+        />
+      )}
+    </div>
+  );
+};
+
+export default MainComponent;
+
